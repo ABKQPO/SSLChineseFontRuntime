@@ -1,0 +1,12 @@
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\bin\Release\net6.0\SSLChineseFontRuntime.deps.json
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\bin\Release\net6.0\SSLChineseFontRuntime.dll
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\bin\Release\net6.0\SSLChineseFontRuntime.pdb
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\obj\Release\net6.0\SSLChineseFontRuntime.csproj.AssemblyReference.cache
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\obj\Release\net6.0\SSLChineseFontRuntime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\obj\Release\net6.0\SSLChineseFontRuntime.AssemblyInfoInputs.cache
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\obj\Release\net6.0\SSLChineseFontRuntime.AssemblyInfo.cs
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\obj\Release\net6.0\SSLChineseFontRuntime.csproj.CoreCompileInputs.cache
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\obj\Release\net6.0\SSLChineseFontRuntime.dll
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\obj\Release\net6.0\refint\SSLChineseFontRuntime.dll
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\obj\Release\net6.0\SSLChineseFontRuntime.pdb
+E:\Github\ShellShockLivePlugins\SSLChineseFontRuntime\obj\Release\net6.0\ref\SSLChineseFontRuntime.dll
