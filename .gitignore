@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# .NET build output
+bin/
+obj/
+
 # Object files
 *.o
 *.ko
